@@ -1,0 +1,5 @@
+buat akun di github
+membuat akun glitch atau bisa hubungkan dengan github
+buat bot di @botfather (telegram)
+setelah selesai copy token kedalam file env
+
